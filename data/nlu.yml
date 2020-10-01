@@ -1,6 +1,12 @@
 version: "2.0"
 
 nlu:
+- intent: trigger_custom_action
+  examples: |
+    - call the custom action
+    - do the custom action
+    - please do the custom action
+
 - intent: greet
   examples: |
     - hey

@@ -1,5 +1,8 @@
 version: "2.0"
 
+actions:
+  - action_hello_world
+  
 intents:
   - greet
   - goodbye

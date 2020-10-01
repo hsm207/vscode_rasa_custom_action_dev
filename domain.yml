@@ -4,6 +4,7 @@ actions:
   - action_hello_world
   
 intents:
+  - trigger_custom_action
   - greet
   - goodbye
   - affirm
